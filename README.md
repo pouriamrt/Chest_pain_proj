@@ -153,7 +153,7 @@ SHAP Summary Plot
 **Pouria Mortezaagha**  
 _Data Analyst | AI Researcher | Full Stack Developer_
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/pouriamortezaagha/) or reach out if you're working on similar multimodal machine learning or healthcare AI projects!
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/pouria-mortezaagha/) or reach out if you're working on similar multimodal machine learning or healthcare AI projects!
 
 ---
 
