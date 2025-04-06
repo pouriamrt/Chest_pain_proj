@@ -96,6 +96,8 @@ Each scenario can be configured with your model of choice using the `build_pipel
 
 **Optional**: UMAP + Doc2Vec visualization for transcript embeddings (commented in the script).
 
+![Pipeline](./assets/pipeline.png)
+
 ---
 
 ## 🛠️ Installation
