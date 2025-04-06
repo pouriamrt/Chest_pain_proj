@@ -33,7 +33,7 @@ This repository contains a comprehensive pipeline for building, training, and ev
 │   ├── 00. Recordings/                     # Transcripts directory
 │   ├── 01. OCI Chest pain study - CRF...   # Tabular data
 │   └── 02. OCI Chest Pain - Patient...     # Patient input data
-├── main.py                                 # Main training and evaluation script
+├── chest_proj.ipynb                        # Main training and evaluation script
 ├── README.md
 └── requirements.txt
 ```
